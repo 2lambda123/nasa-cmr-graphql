@@ -35,7 +35,7 @@
     "@rollup/plugin-graphql": "^2.0.4",
     "@vitest/coverage-istanbul": "^1.6.1",
     "aws-sdk-client-mock": "^4.0.0",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.25.0",
     "nock": "^13.5.4",
     "snyk": "^1.1283.0",
     "vitest": "^1.6.1"
